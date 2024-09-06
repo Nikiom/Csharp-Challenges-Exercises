@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Creating_a_Simple_Calculator_for_Direct_Math_Expression_input___V2</RootNamespace>
+  </PropertyGroup>
+
+</Project>
